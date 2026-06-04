@@ -1,10 +1,8 @@
 <html>
 <head>
-<titie>use of image tag</title>
+<titie>use of image tag</titie>
 </head>
 <body>
-<img>scr"background.jpg"width=500px"
-hetght="500px"ALT="background"
-ITTI=background tmage>
+<img src="anu.jpg" width="600" nhetght="700" alt="background"title="background image">
 </body>
 </html>
